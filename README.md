@@ -5,7 +5,7 @@ I'm a Computer Science student specializing in Machine Learning and AI, passiona
 ---
 
 ## 🔧 Tech Stack  
-- **Frontend**: Vue.js, Nuxt.js, Tailwind CSS, JavaScript  
+- **Frontend**: Vue.js, Nuxt.js, Tailwind CSS, JavaScript, and TypeScript 
 - **Backend**: Node.js, Express.js, MySQL, MongoDB  
 - **Other**: Git, Docker, REST APIs, C++, Python
 
