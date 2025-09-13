@@ -13,10 +13,6 @@ I'm a Computer Science student specializing in Machine Learning and AI, passiona
 
 ## 🚀 Featured Projects
 
-### [SpaCitizen](https://spacitizen.com)  
-Salon booking web application with Stripe integration, built using Vue.js and Nuxt.js.  
-> 🛠️ Role: Frontend Developer | 🌐 Booking & Payments | ⚡ Improved load speed by 30%
-
 ### [Menutz](https://menutz.com)  
 Landing page for a restaurant management app, designed to attract new users and clients.  
 > 🛠️ Role: Developer | 🧩 Built with Nuxt.js & Tailwind CSS | 🔍 SEO optimized
