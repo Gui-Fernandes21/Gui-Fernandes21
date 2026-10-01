@@ -17,7 +17,7 @@
 
 ### 👋 About me
 
-I'm a software engineer specialising in **AI & ML**. I build full-stack products and the AI infrastructure behind them: multi-agent systems, decision support tools, and fast, clean web apps. I'm studying for a BSc in Computer Science (Machine Learning & AI) at the University of London and work as an independent contractor.
+I'm a software engineer specialising in **AI & ML**. I build full-stack products and the AI infrastructure behind them: multi-agent systems, decision support tools, and fast, clean web apps. I have a BSc in Computer Science (Machine Learning & AI) at the University of London and work as an independent contractor.
 
 - 🤖 Currently building a **self-hosted multi-agent platform** with long-term memory
 - 📈 Final project: a **decision support system for ETF allocation**
