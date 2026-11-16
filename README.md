@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Guilherme%20Fernandes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20ML&descAlignY=58&descSize=18" width="100%" alt="Guilherme Fernandes, Software Engineer, AI and ML" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+multi-agent+systems+with+long-term+memory;Full-stack+with+Nuxt+%2B+FastAPI;BSc+Computer+Science+(ML+%26+AI)+%C2%B7+University+of+London;Open+to+remote+roles" alt="Typing intro" /></a>
-
-<br/>
+<img src="./assets/banner.svg" width="100%" alt="Guilherme Fernandes, Software Engineer, AI and ML" />
 
 <a href="https://gui-fernandes-web.web.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/guilherme-fernandes-pro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
